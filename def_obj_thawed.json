@@ -1,0 +1,160 @@
+[
+    {
+        "date": "before 12th century{ds|t|||}",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to go from a frozen to a liquid state {bc}{sx|melt||}"
+                                    ]
+                                ],
+                                "sn": "1 a"
+                            }
+                        ],
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become free of the effect (such as stiffness, numbness, or hardness) of cold as a result of exposure to warmth"
+                                    ]
+                                ],
+                                "sn": "b"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to be warm enough to melt ice and snow "
+                                    ],
+                                    [
+                                        "uns",
+                                        [
+                                            [
+                                                [
+                                                    "text",
+                                                    "used with {it}it{/it} in reference to the weather"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                "sn": "2"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to abandon aloofness, reserve, or hostility {bc}{sx|unbend||}"
+                                    ]
+                                ],
+                                "sn": "3"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to become mobile, active, or susceptible to change"
+                                    ]
+                                ],
+                                "sn": "4"
+                            }
+                        ]
+                    ]
+                ],
+                "vd": "intransitive verb"
+            },
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to cause to thaw"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ],
+                "vd": "transitive verb"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "Middle English, from Old English {it}thawian{/it}; akin to Old High German {it}douwen{/it} to thaw, Greek {it}t\u0113kein{/it} to melt, Latin {it}tab\u0113re{/it} to waste away"
+            ]
+        ],
+        "fl": "verb",
+        "hom": 1,
+        "hwi": {
+            "hw": "thaw",
+            "prs": [
+                {
+                    "mw": "\u02c8th\u022f",
+                    "sound": {
+                        "audio": "thaw0001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "ins": [
+            {
+                "if": "thawed"
+            },
+            {
+                "if": "thaw*ing"
+            },
+            {
+                "if": "thaws"
+            }
+        ],
+        "meta": {
+            "id": "thaw:1",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "241530000",
+            "src": "collegiate",
+            "stems": [
+                "thaw",
+                "thawed",
+                "thawing",
+                "thaws"
+            ],
+            "uuid": "efd6c01c-b7f5-4899-a8cb-a547cd19463c"
+        },
+        "shortdef": [
+            "to go from a frozen to a liquid state : melt",
+            "to become free of the effect (such as stiffness, numbness, or hardness) of cold as a result of exposure to warmth",
+            "to be warm enough to melt ice and snow \u2014used with it in reference to the weather"
+        ]
+    }
+]

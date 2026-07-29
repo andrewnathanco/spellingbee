@@ -1,0 +1,249 @@
+[
+    {
+        "date": "1901",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to make {a_link|peevish} or resentful {bc}{sx|annoy||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ],
+                "vd": "transitive verb"
+            }
+        ],
+        "et": [
+            [
+                "text",
+                "back-formation from {it}peevish{/it}"
+            ]
+        ],
+        "fl": "verb",
+        "hom": 1,
+        "hwi": {
+            "hw": "peeve",
+            "prs": [
+                {
+                    "mw": "\u02c8p\u0113v",
+                    "sound": {
+                        "audio": "peeve001",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "ins": [
+            {
+                "if": "peeved"
+            },
+            {
+                "if": "peev*ing"
+            }
+        ],
+        "meta": {
+            "id": "peeve:1",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "171556000",
+            "src": "collegiate",
+            "stems": [
+                "peeve",
+                "peeved",
+                "peeves",
+                "peeving"
+            ],
+            "uuid": "df28c4bc-fe00-4662-94ae-224e1dc6c4c0"
+        },
+        "shortdef": [
+            "to make peevish or resentful : annoy"
+        ],
+        "syns": [
+            {
+                "pl": "synonyms",
+                "pt": [
+                    [
+                        "text",
+                        "{sc}irritate{/sc} {sc}exasperate{/sc} {sc}nettle{/sc} {sc}provoke{/sc} {sc}rile{/sc} {sc}peeve{/sc} mean to excite a feeling of anger or annoyance. {sc}irritate{/sc} implies an often gradual arousing of angry feelings that may range from mere impatience to rage. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "constant nagging that {it}irritated{/it} me greatly"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}exasperate{/sc} suggests galling annoyance and the arousing of extreme impatience. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "his {it}exasperating{/it} habit of putting off needed decisions"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}nettle{/sc} suggests a sharp but passing annoyance or stinging. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "your pompous attitude {it}nettled{/it} several people"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}provoke{/sc} implies an arousing of strong annoyance that may excite to action. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "remarks made solely to {it}provoke{/it} her"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}rile{/sc} implies inducing an angry or resentful agitation. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "the new work schedules {it}riled{/it} the employees"
+                            }
+                        ]
+                    ],
+                    [
+                        "text",
+                        " {sc}peeve{/sc} suggests arousing fretful often petty or querulous irritation. "
+                    ],
+                    [
+                        "vis",
+                        [
+                            {
+                                "t": "a toddler {it}peeved{/it} at being refused a cookie"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "date": "1909{ds||1||}",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a feeling or mood of resentment"
+                                    ]
+                                ],
+                                "sn": "1"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a particular grievance or source of annoyance"
+                                    ]
+                                ],
+                                "sn": "2"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "noun",
+        "hom": 2,
+        "hwi": {
+            "hw": "peeve"
+        },
+        "meta": {
+            "id": "peeve:2",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "171557000",
+            "src": "collegiate",
+            "stems": [
+                "peeve",
+                "peeves"
+            ],
+            "uuid": "1ba3b403-d9fa-466f-bf58-30a2803ceac3"
+        },
+        "shortdef": [
+            "a feeling or mood of resentment",
+            "a particular grievance or source of annoyance"
+        ]
+    },
+    {
+        "date": "1917",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}a frequent subject of complaint"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "fl": "noun",
+        "hwi": {
+            "hw": "pet peeve"
+        },
+        "meta": {
+            "id": "pet peeve",
+            "offensive": false,
+            "section": "alpha",
+            "sort": "172301000",
+            "src": "collegiate",
+            "stems": [
+                "pet peeve",
+                "pet peeves"
+            ],
+            "uuid": "098cff88-7f6e-4df7-8c85-ac7b8ed1a5ab"
+        },
+        "shortdef": [
+            "a frequent subject of complaint"
+        ]
+    }
+]
